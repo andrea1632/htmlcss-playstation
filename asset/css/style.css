@@ -59,3 +59,11 @@ header nav .container-fluid ul li a{
 .items_container:hover{
     border-bottom: 2px solid #4095DA;
 }
+.it_takes_two{
+    background-image: url('.././img/it-takes-two-hero-banner-desktop.jpg');
+    background-size: cover;
+}
+.itw_content button{
+    background-color: #CD3D0F;
+    border-radius: 100px;
+}
