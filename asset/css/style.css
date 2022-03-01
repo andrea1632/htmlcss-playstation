@@ -90,3 +90,21 @@ header nav .container-fluid ul li a{
     background-color: #161C3B;
     padding: 0 100px;
 }
+footer{
+    background-color: #00439C;
+    padding: 60px;
+}
+.language img{
+    width: 1em;
+    height: 1em;
+}
+.footer_list ul{
+    list-style: none;
+}
+.footer_list ul li{
+    color:white;
+}
+.text-underline{
+    text-decoration: underline;
+    cursor: pointer;
+}
