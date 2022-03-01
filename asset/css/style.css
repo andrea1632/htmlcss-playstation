@@ -86,3 +86,7 @@ header nav .container-fluid ul li a{
     border-radius: 100px;
     color: #2D64E6;
 }
+.ps_now{
+    background-color: #161C3B;
+    padding: 0 100px;
+}
