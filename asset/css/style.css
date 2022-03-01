@@ -40,3 +40,11 @@ header nav .container-fluid ul li a{
     color: white;
     border-radius: 100px;
 }
+.cards_container img{
+    border-radius: 20px;
+    padding: 3px;
+}
+.cards_container img:hover{
+    border: 2px solid #3F94DA;
+    cursor: pointer;
+}
