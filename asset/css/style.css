@@ -17,3 +17,26 @@ header nav .container-fluid ul li a{
     width: 100px;
     text-align: center;
 }
+.jumbotron{
+    width: 100%;
+    height: auto;
+    background-image: url('./../img/jumbo-bg.png');
+    background-size: cover;
+    background-position: center;
+}
+.jumbo_content{
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    padding: 50px;
+}
+.jumbo_content p{
+    max-width: 570px;
+}
+.jumbo_content .btn{
+    width: 150px;
+    background-color: #CD3D0F;
+    color: white;
+    border-radius: 100px;
+}
