@@ -73,3 +73,7 @@ header nav .container-fluid ul li a{
 .new_release_content .text-white img{
     border-radius: 25px;
 }
+.btn_bg_blue{
+    background-color: #2D64E6;
+    border-radius: 100px;
+}
