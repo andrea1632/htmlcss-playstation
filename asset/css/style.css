@@ -1,3 +1,19 @@
 .top_header{
     height: 30px;
 }
+
+header nav .container-fluid ul li a{
+    color: black;
+}
+.nav_toggle{
+    background-color: lightgray;
+}
+.nav_toggle i{
+    padding: 20px;
+}
+.ab_btn{
+    background-color: #152125;
+    border-radius: 100px;
+    width: 100px;
+    text-align: center;
+}
