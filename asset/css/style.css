@@ -48,3 +48,14 @@ header nav .container-fluid ul li a{
     border: 2px solid #3F94DA;
     cursor: pointer;
 }
+.text_content_ps5 .btn{
+    background-color: #2D64E6;
+    color: white;
+    border-radius: 100px;
+}
+.items_container{
+    padding: 10px;
+}
+.items_container:hover{
+    border-bottom: 2px solid #4095DA;
+}
