@@ -77,3 +77,12 @@ header nav .container-fluid ul li a{
     background-color: #2D64E6;
     border-radius: 100px;
 }
+.ps_plus{
+    background-color: #BEBCBB;
+    padding: 0 100px;
+}
+.btn_bg_light{
+    background-color:#D9DADC;
+    border-radius: 100px;
+    color: #2D64E6;
+}
