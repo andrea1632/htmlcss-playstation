@@ -108,3 +108,7 @@ footer{
     text-decoration: underline;
     cursor: pointer;
 }
+.img_items img:hover{
+    opacity: 100 !important;
+    transition: 1s;
+}
