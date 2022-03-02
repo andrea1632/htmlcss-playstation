@@ -111,4 +111,9 @@ footer{
 .img_items img:hover{
     opacity: 100 !important;
     transition: 1s;
+    cursor: pointer;
+}
+.footer_list ul li:hover{
+    text-decoration: underline;
+    cursor: pointer;
 }
