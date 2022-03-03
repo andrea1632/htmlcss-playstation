@@ -117,3 +117,14 @@ footer{
     text-decoration: underline;
     cursor: pointer;
 }
+.sie_logo{
+    min-width: 100px;
+    width: 50%;
+}
+
+.hover_dropdown{
+    display: none;
+}
+header:hover .hover_dropdown{
+    display: block;
+}
